@@ -1,0 +1,17 @@
+# web_spider
+
+
+To Install python package beautifulSoup
+ 
+Fire up your terminal and start putting some command
+
+Step 1: Install pip
+       
+       In ubuntu distributed sysytem: sudo apt-get install pip
+       In windows system: python get-pip.py
+       
+
+Step 2: Installation of package
+ 
+        In ubuntu distributed system : sudo pip install BeautifulSoup4
+        In window system : pip install BeautifulSoup4	 
